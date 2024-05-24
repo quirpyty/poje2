@@ -9,7 +9,7 @@ Getting started with MyToken is a breeze! Here's how you can dive in:
 
 Remix IDE: Head over to Remix IDE, a fantastic online Ethereum development environment. You can access it here.
 
-Copy & Paste: Copy the code provided in this repository and paste it into a new file in Remix IDE.
+
 
 Compile & Deploy: Compile the contract using the appropriate Solidity compiler version. Then, deploy the contract by selecting MyToken from the dropdown menu. Don't forget to provide the required constructor parameters: token name, symbol, and total supply.
 
