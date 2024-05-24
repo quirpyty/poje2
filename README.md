@@ -44,7 +44,7 @@ contract MyToken{
     }
 }
 
-Compile & Deploy: Compile the contract using the appropriate Solidity compiler version. Then, deploy the contract by selecting MyToken from the dropdown menu. Don't forget to provide the required constructor parameters: token name, symbol, and total supply.
+Compile the contract using the appropriate Solidity compiler version. Then, deploy the contract by selecting MyToken from the dropdown menu. Don't forget to provide the required constructor parameters: token name, symbol, and total supply.
 
 Interact: Once the contract is deployed, you're all set to interact with it! You can mint new tokens using the mint function and burn existing tokens using the burn function.
 
