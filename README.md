@@ -63,5 +63,4 @@ Mint Event: Whenever new tokens are minted, the Mint event is emitted. It lets y
 Burn Event: When tokens are burned, the Burn event fires off. It helps you track token destruction and maintain transparency.
 
 License
-MyToken is licensed under the MIT License. You're free to use, modify, and distribute it as you see fit. Check out the LICENSE file for all the details.
-
+MyToken is licensed under the MIT License.
