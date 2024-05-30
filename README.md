@@ -22,6 +22,7 @@ The MyToken contract is a simple implementation of an ERC20 token on the Ethereu
 
 ## SPDX-License-Identifier
 
+ // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract MyToken{
