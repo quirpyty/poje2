@@ -14,9 +14,9 @@ The MyToken contract is a simple implementation of an ERC20 token on the Ethereu
 
 3. **Burning Tokens**: The `burn` function allows token holders to burn a specified amount of tokens, reducing the total token supply. This function also updates the balance of the address from which the tokens are burned.
 
-## License
+## Executing the Program
 
-This contract is released under the MIT License. See the [LICENSE](LICENSE) file for details.
+- To run this program, you can use Remix, as online Solidity IDE. To get started, go to Remix website at https:/remix.ethereum.org/.
 
 ## SPDX-License-Identifier
 
